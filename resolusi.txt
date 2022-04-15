@@ -2,3 +2,4 @@ resolusi
 - bisa php framework
 - bisa sass 
 - bisa tailwind
+- bisa frontend dan backend
