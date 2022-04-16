@@ -3,7 +3,9 @@ rencana belajar dani
 javascript
 - ES6
 - Framework javascript
-
+- angular
+- react
 php framework
+- laravel
 database
-fundamental
+
