@@ -3,7 +3,7 @@ rencana belajar dani
 javascript
 - ES6
 - Framework javascript
-- angular
+- vue
 - react
 php framework
 - laravel
