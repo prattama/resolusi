@@ -8,4 +8,4 @@ javascript
 php framework
 - laravel
 database
-fundamental
+
