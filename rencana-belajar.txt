@@ -1,5 +1,8 @@
 rencana belajar dani
 
 javascript
+- ES6
+- Framework javascript
+
 php framework
 database
